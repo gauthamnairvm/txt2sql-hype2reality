@@ -76,5 +76,5 @@ While this is a solo series, feel free to fork, suggest improvements, or report 
 ## 📬 Contact
 
 Created by **Gautham Nair**  
-For questions or collaboration: [LinkedIn](www.linkedin.com/in/vmgauthamnair), [X](https://x.com/VMG_Nair)
+For questions or collaboration: [LinkedIn](https://www.linkedin.com/in/vmgauthamnair/), [X](https://x.com/VMG_Nair)
 
