@@ -1,0 +1,151 @@
+employee_id,employee_name,department_code,join_date,salary,education_level,location
+1,Renee Martin,DAE,16-06-2021,78024,Bachelors,Chicago
+2,Robin Simpson,HR,18-07-2019,62174,PhD,New York
+3,Adam Nichols II,DAE,04-01-2022,83825,Bachelors,Seattle
+4,Thomas Wilkins,IT,13-08-2020,67623,Bachelors,San Francisco
+5,Kristina Kirby,Operations,08-08-2022,56515,Bachelors,Seattle
+6,Linda Cruz,DAE,26-09-2016,83746,PhD,Seattle
+7,Mary Cruz,HR,21-11-2024,40212,PhD,Chicago
+8,Robert Velez,HR,11-10-2021,49105,Masters,Chicago
+9,Carrie Allison,HR,08-09-2018,43039,Masters,New York
+10,Steven Harris,Marketing,21-09-2019,64782,Masters,Chicago
+11,Susan Moore,Finance,17-06-2023,72571,PhD,Austin
+12,Christopher Norris,IT,16-07-2021,69606,Bachelors,Seattle
+13,Kathy Graham,DAE,29-01-2023,76300,Masters,Seattle
+14,Corey Martin,DAE,03-11-2021,79482,Bachelors,San Francisco
+15,Olivia Shaffer,IT,27-05-2020,69108,Bachelors,Austin
+16,Robin Martin,Marketing,22-09-2019,57130,Masters,San Francisco
+17,Amy Jones,Finance,09-05-2019,77997,PhD,Chicago
+18,Briana Weber,DAE,30-04-2016,90806,Bachelors,Seattle
+19,Lori Lucas,HR,17-01-2016,45354,PhD,San Francisco
+20,Mallory Lozano,Marketing,17-07-2021,52196,Masters,Seattle
+21,Mr. James Coffey,DAE,23-07-2015,71051,Bachelors,San Francisco
+22,Jose Cowan,Finance,13-03-2024,61913,Masters,New York
+23,Angelica Church,Operations,17-01-2017,71477,Masters,San Francisco
+24,Earl Brown,Marketing,21-03-2021,49681,PhD,Austin
+25,Kenneth Taylor DVM,Finance,26-12-2015,72661,Bachelors,Seattle
+26,Matthew Pham,Finance,06-01-2024,74121,PhD,Austin
+27,Rhonda Cole MD,Marketing,06-11-2023,61696,Bachelors,San Francisco
+28,Jared Collins,Marketing,07-04-2016,50008,Bachelors,New York
+29,Darin Miller,DAE,26-06-2022,89543,PhD,Austin
+30,Michael King,IT,28-12-2019,75337,Masters,Seattle
+31,Jonathan Barber,Operations,29-12-2020,72291,PhD,New York
+32,Robert Alexander,DAE,10-07-2016,94604,PhD,Seattle
+33,Ryan Evans,Finance,13-02-2025,64617,Masters,New York
+34,Kevin Dillon,Marketing,16-06-2021,68661,Masters,New York
+35,Miss Michelle Salas MD,DAE,31-08-2019,86635,PhD,San Francisco
+36,Erin Mitchell DVM,IT,15-05-2023,79954,Masters,Seattle
+37,David Martinez,HR,13-10-2023,57674,Masters,San Francisco
+38,Jose Meyer,Operations,31-12-2017,66010,PhD,Chicago
+39,Theresa Davis,IT,11-10-2019,67846,Masters,Chicago
+40,Matthew White,IT,22-09-2024,62806,PhD,New York
+41,Susan Hayes,DAE,29-08-2023,74120,Bachelors,Seattle
+42,Keith Freeman,HR,17-04-2016,45410,Masters,Seattle
+43,Melanie Forbes,Finance,01-07-2023,61940,PhD,Austin
+44,James Phillips,Operations,24-04-2024,73361,PhD,San Francisco
+45,Karen Holloway,Finance,17-09-2023,69355,PhD,Chicago
+46,Kayla Greer,Operations,14-10-2016,57362,Bachelors,San Francisco
+47,Maria Evans,IT,24-12-2023,78150,Bachelors,Seattle
+48,Dennis Santiago,HR,05-08-2022,42326,Bachelors,New York
+49,James Olson,DAE,17-06-2024,72208,Bachelors,San Francisco
+50,Douglas Wilcox,IT,04-06-2017,67798,Bachelors,Seattle
+51,Charles Vasquez,Finance,21-10-2021,72669,Masters,San Francisco
+52,Megan Hart,HR,22-06-2023,55488,PhD,Seattle
+53,James Hoover,HR,20-05-2019,43090,Masters,San Francisco
+54,Chris Davis,IT,01-08-2017,73879,Masters,Chicago
+55,Pamela Bell,Marketing,21-07-2020,67064,PhD,New York
+56,Lisa Thompson,DAE,06-01-2016,83193,Bachelors,New York
+57,Richard Lucas,DAE,18-12-2019,76278,Bachelors,San Francisco
+58,Kathryn Torres,HR,20-09-2020,53824,Masters,San Francisco
+59,Sarah Thomas,HR,11-02-2017,42470,Masters,San Francisco
+60,Joel Stewart,Marketing,03-12-2021,66369,Bachelors,New York
+61,Michael Holland,Operations,17-07-2017,55449,Bachelors,San Francisco
+62,Samuel Hoffman,Marketing,02-07-2016,58141,Masters,San Francisco
+63,Jessica Cole,IT,22-04-2018,72793,Masters,New York
+64,Claudia Wright,Finance,14-11-2024,77825,Masters,Austin
+65,Teresa Black,DAE,08-04-2022,75072,PhD,Austin
+66,Sue Porter,HR,15-05-2020,58978,Bachelors,New York
+67,Russell Avila,DAE,31-01-2024,71873,Bachelors,Chicago
+68,Jessica Huang,IT,09-03-2017,77403,Masters,Seattle
+69,Shelby Hernandez,HR,25-02-2021,46089,PhD,New York
+70,Curtis Hogan,IT,13-12-2015,73230,Bachelors,San Francisco
+71,Kevin Gallagher PhD,IT,04-12-2017,79481,Bachelors,Seattle
+72,Jamie Maddox,IT,23-11-2023,81540,Bachelors,Austin
+73,Crystal Sloan,Operations,14-04-2023,58544,PhD,Chicago
+74,Jessica Jordan,HR,09-05-2023,47821,PhD,Chicago
+75,Abigail Dillon,Finance,04-10-2022,69982,Bachelors,Chicago
+76,Lisa Cameron,Finance,13-08-2019,75354,Bachelors,Austin
+77,Sharon Rodriguez,Operations,13-08-2024,56984,Bachelors,Seattle
+78,Whitney Garcia,Operations,07-05-2018,52254,Bachelors,Chicago
+79,Brandon Blevins,HR,12-03-2017,54358,Masters,San Francisco
+80,Nicholas Foster,Operations,31-10-2023,71429,Masters,Seattle
+81,Kelly Solis,Operations,26-03-2019,59810,PhD,Seattle
+82,Maurice Dunn,DAE,12-12-2019,73782,Bachelors,Chicago
+83,Daniel Rogers,IT,07-02-2019,68924,PhD,San Francisco
+84,Karen Logan,Finance,30-05-2022,61671,Bachelors,Chicago
+85,Jillian Schmidt,DAE,21-08-2020,86008,Masters,Seattle
+86,Kelli Howell,Finance,15-05-2024,64066,Bachelors,Austin
+87,Barbara Jackson,IT,07-01-2017,80876,Masters,San Francisco
+88,Kenneth Vaughn II,Finance,30-04-2017,73077,PhD,Austin
+89,Kristen Kemp,DAE,04-04-2022,73665,PhD,New York
+90,Erin Rodriguez,IT,26-07-2024,61180,Bachelors,Seattle
+91,Paul Roberts,Finance,20-05-2015,69083,PhD,San Francisco
+92,John Hall,HR,20-09-2018,41307,Masters,Chicago
+93,Emily Perry,Finance,23-08-2019,76854,PhD,San Francisco
+94,Ebony Salazar,IT,10-08-2016,80337,PhD,Austin
+95,Scott Cooper,DAE,15-07-2016,75801,Bachelors,San Francisco
+96,Andrew Thomas,Marketing,02-06-2016,58491,Bachelors,Chicago
+97,Elizabeth Martin,DAE,28-01-2025,75216,Bachelors,Chicago
+98,Stephanie Salazar,DAE,31-05-2016,85423,Masters,New York
+99,John Kelley,HR,24-10-2019,50000,Masters,Chicago
+100,Brooke Garza,HR,30-10-2019,53056,Bachelors,San Francisco
+101,Lisa Moore,Finance,02-01-2023,66506,Bachelors,Chicago
+102,Edward Bowers,DAE,09-07-2019,80851,Masters,Seattle
+103,Rhonda Becker,IT,21-06-2015,79024,Masters,San Francisco
+104,Jesse Everett,Finance,25-06-2020,69239,Bachelors,Seattle
+105,Tiffany Davis,Finance,20-09-2021,74864,Masters,Austin
+106,Larry Lyons,Operations,22-05-2018,56228,Masters,Seattle
+107,Vanessa Taylor,Finance,06-03-2021,55055,PhD,Austin
+108,Leslie Moore,Operations,22-09-2020,61934,PhD,San Francisco
+109,Joseph Blankenship,Marketing,01-05-2023,65419,PhD,Chicago
+110,David Barber,Finance,03-04-2016,71617,Bachelors,Chicago
+111,Jill Cruz,Finance,24-02-2018,68185,Masters,Chicago
+112,Catherine Johnson,DAE,22-06-2023,76286,PhD,San Francisco
+113,Gary Clark,Marketing,08-08-2024,65169,Masters,San Francisco
+114,Janice Steele,Operations,18-03-2024,50013,Masters,Seattle
+115,Jordan Lloyd,Finance,08-07-2021,74004,Bachelors,Austin
+116,Howard Ingram,Operations,02-01-2021,64476,Masters,Austin
+117,Kimberly White,Marketing,19-04-2022,60505,Bachelors,Seattle
+118,Thomas Walker,DAE,17-04-2024,79299,PhD,New York
+119,Kathleen Villa,Operations,06-12-2016,60983,PhD,Seattle
+120,Melissa Chapman,IT,14-06-2017,67361,PhD,Chicago
+121,Mrs. Heather Nash,HR,07-06-2018,48023,Bachelors,New York
+122,Tommy Wiggins,Marketing,20-04-2023,58580,Bachelors,Austin
+123,Vincent Lopez,DAE,29-06-2023,86199,Bachelors,Austin
+124,Laurie Hill,Marketing,18-06-2019,69607,Bachelors,New York
+125,Sean Mcgee,IT,04-10-2016,82803,Bachelors,San Francisco
+126,Jennifer Gonzalez,Operations,26-09-2024,58165,Bachelors,Seattle
+127,David Cortez,IT,30-09-2023,81875,Bachelors,Austin
+128,Eric Jones,Operations,20-08-2018,74748,PhD,Chicago
+129,Christopher Mathews,Marketing,28-04-2021,58983,PhD,Seattle
+130,Dana Miles,Operations,04-05-2023,64747,Bachelors,Austin
+131,Gregory Friedman,Finance,19-05-2024,72081,PhD,Chicago
+132,Amanda Porter,Marketing,18-08-2019,59413,Bachelors,Chicago
+133,Sandra Simmons,IT,25-09-2024,68903,Masters,San Francisco
+134,Mr. Jesse Smith,Finance,15-10-2018,59534,PhD,New York
+135,Eric Walker,HR,07-10-2024,63147,Masters,San Francisco
+136,Rachel Harper,HR,08-07-2021,50842,Masters,Austin
+137,Michael Barnett,Operations,01-12-2021,56777,Masters,New York
+138,Susan Brown,Marketing,12-08-2021,63864,PhD,New York
+139,John Ball,Marketing,02-07-2018,54784,Bachelors,Chicago
+140,Laurie Mcbride,Marketing,18-05-2019,64767,PhD,Seattle
+141,Juan Zamora,HR,27-07-2023,54281,Bachelors,Chicago
+142,Pamela Ward,Marketing,18-09-2019,66917,Masters,Chicago
+143,Joshua Johnson,DAE,16-07-2020,85315,PhD,San Francisco
+144,Maurice Lawrence,HR,03-06-2015,52911,PhD,New York
+145,Dale Oneill,Operations,05-09-2017,52750,PhD,New York
+146,Tony Keith,DAE,05-06-2024,75954,Bachelors,Austin
+147,Timothy Myers,IT,15-03-2017,66935,Masters,Chicago
+148,Glenn Anderson,Marketing,14-07-2015,54117,Masters,Austin
+149,Joshua Cortez,Marketing,25-06-2018,45635,Bachelors,Austin
+150,William Reed,DAE,24-09-2021,77347,Bachelors,Chicago

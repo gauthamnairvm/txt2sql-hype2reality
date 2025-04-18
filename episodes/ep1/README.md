@@ -44,7 +44,7 @@ cd episodes/ep1
 episodes/
 │
 ├── ep1/
-│   ├── employees.csv  # CSV file containing sample data
+│   ├── employees_sample.csv  # CSV file containing sample data
 │   ├── employee.sql   # Example SQL query script
 │   └── README.md
 ```
@@ -67,7 +67,7 @@ This episode uses Power BI Desktop (free) to show how simple queries can be crea
 > ⚠️ **Disclaimer**: External resources (papers, models, datasets) referenced in this episode are **not owned by me**.  
 > Please refer to the original licenses and attribution requirements for each of them.
 
-- **Synthetic Data Generation**: ChatGPT (model: `gpt-4`)
+- **Synthetic Data Generation**: `employees_sample.csv` -> ChatGPT (model: `gpt-4`);
 - **Tools**: [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
 
 ---
