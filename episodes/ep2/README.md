@@ -77,7 +77,7 @@ This episode uses Groq, a fast AI Interfence. You can skip this step if you do n
 - **Spider**: [Tao Yu, Rui Zhang, Kai Yang, Michihiro Yasunaga, Dongxu Wang, Zifan Li, James Ma, Irene Li, Qingning Yao, Shanelle Roman, Zilin Zhang and Dragomir Radev. Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task, Volume = abs/1809.08887, Year = 2018](https://arxiv.org/abs/1809.08887)
 
 > **Please check the resources provided by the authors for current updates on these datasets/papers.**
-> **Since release of Spider 2.0, Authors do not accept submissions for benchmark testing om 1.0 anymore.**
+> **Since release of Spider 2.0, Authors do not accept submissions for benchmark testing on 1.0 anymore.**
 
 ---
 

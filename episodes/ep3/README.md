@@ -52,7 +52,7 @@ episodes/
 > ⚠️ **Disclaimer**: External resources (papers, models, public datasets) referenced in this episode are **not owned by me**.  
 > Please refer to the original licenses and attribution requirements for each of them.
 
-- **BEAVER**: [Chen, Peter Baile; Wenz, Fabian; Zhang, Yi; Yang, Devin; Choi, Justin; Tatbul, Nesime; Cafarella, Michael; Demiralp, {\c{C}}a{\u{g}}atay and Stonebraker, Michael. BEAVER: an enterprise benchmark for text-to-sql, Journal = arXiv preprint arXiv:2409.02038, Year = 2024](https://arxiv.org/abs/2409.02038)
+- **BEAVER**: [Chen, Peter Baile; Wenz, Fabian; Zhang, Yi; Yang, Devin; Choi, Justin; Tatbul, Nesime; Cafarella, Michael; Demiralp, Çağatay and Stonebraker, Michael. BEAVER: an enterprise benchmark for text-to-sql, Journal = arXiv preprint arXiv:2409.02038, Year = 2024](https://arxiv.org/abs/2409.02038)
 
 > **Please check the resources provided by the authors for current updates on this dataset and paper.**
 
