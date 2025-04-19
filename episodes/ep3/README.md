@@ -61,6 +61,6 @@ episodes/
 ## 📬 Contact
 
 Created by **Gautham Nair**; 
-> Additional insights by **Fabian Wenz**, [LinkedIn](linkedin.com/in/fabian-wenz)
+> Additional insights by **Fabian Wenz**, [LinkedIn](https://www.linkedin.com/in/fabian-wenz)
 
 For questions or collaboration: [LinkedIn](https://www.linkedin.com/in/vmgauthamnair/), [X](https://x.com/VMG_Nair)
