@@ -19,7 +19,7 @@ This repository accompanies the [YouTube series](#) (link coming soon)
 
 - 🔁 Real-world SQL vs natural language
 - 🔎 Benchamrk datasets & public model evaluations
-- 📊 Power BI + NLP model demos
+- 📊 Power BI + Transformer model demos
 - 📚 Research-backed insights
 - 🎓 Code, notes, and reference links per episode
 
@@ -40,8 +40,8 @@ cd episodes/ep1
 
 3. **Use freely!** This work is licensed under the [MIT License](LICENSE), meaning:
    - ✅ You can use, share, and modify
-   - 🚫 Please include attribution if reusing for content or publication
-   - ⚠️⚠️⚠️ External resources (research papers, pretrained models, datasets) linked in this repo are **not** owned by me. Please follow the respective licenses and attribution rules of those works.
+   - 🚫 Please include attribution if reusing for content or publication.
+   - ⚠️⚠️⚠️ External resources (research papers, pretrained models, public datasets, additional video resources) linked in this repo are **not** owned by me. Please follow the respective licenses and attribution rules of those works.
 
 ---
 
@@ -52,7 +52,7 @@ txt2sql-hype2reality/
 │
 ├── episodes/
 │   ├── ep1/           # Episode 1: Introduction & PowerBI Desktop setup
-│   ├── ep2/           # Episode 2: Hands on Text2SQL demos
+│   ├── ep2/           # Episode 2: Hands on Text2SQL demos & GROQ setup
 │   └── ep3/           # Episode 3: Enterprise limitation analysis
 │
 ├── LICENSE            # MIT License
@@ -63,7 +63,7 @@ txt2sql-hype2reality/
 
 ## References
 
-Please find links to additional resources and external work that suppported creation of this series inside of each individual episode folders. ⚠️⚠️⚠️ External resources (research papers, pretrained models, datasets) linked in this repo are **not** owned by me. Please follow the respective licenses and attribution rules of those works.
+Please find links to additional resources and external work that suppported creation of this series inside of each individual episode folders. ⚠️⚠️⚠️ External resources (research papers, pretrained models, datasets, additional video resources) linked in this repo are **not** owned by me. Please follow the respective licenses and attribution rules of those works.
 
 ---
 

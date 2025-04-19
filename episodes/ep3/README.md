@@ -1,7 +1,7 @@
 # 📘 Episode 3: Text2SQL: Hype v/s Enterpise Reality.
 
-Welcome to the first episode of the [YouTube series](#) (link coming soon)!  
-In this episode, we explore the *what* and *why* of Text2SQL, low-code tools like Power BI, and the need for natural language interfaces in simplyfying query generation tasks.
+Welcome to the third episode of the [YouTube series](#) (link coming soon)!  
+In this episode, we explore few shortcomings of current Text2SQL benchmark testing, limiations of the field and improvements that can be made.
 
 ---
 
@@ -17,9 +17,7 @@ In this episode, we explore the *what* and *why* of Text2SQL, low-code tools lik
 
 ## Episode Content
 
-- 🔁 Real-world SQL vs natural language
-- 📊 Power BI setup and demo
-- 🎓 Sample data, and SQL queries
+- 🔁 Text2SQL for day to day tasks v/s Text2SQL at an enterprise scale. 
 
 ---
 
@@ -33,7 +31,7 @@ cd txt2sql-hype2reality
 
 2. **Navigate to an episode folder**:
 ```bash
-cd episodes/ep1
+cd episodes/ep3
 ```
 
 ---
@@ -43,36 +41,26 @@ cd episodes/ep1
 ```
 episodes/
 │
-├── ep1/
-│   ├── employees.csv  # CSV file containing sample data
-│   ├── employee.sql   # Example SQL query script
+├── ep3/
 │   └── README.md
 ```
 
 ---
 
-## 💻 Power BI Setup
+## References
 
-This episode uses Power BI Desktop (free) to show how simple queries can be created visually.
-
-**Steps to get started:**
-1. Download Power BI Desktop from the [official site](https://powerbi.microsoft.com/desktop/)
-2. Open Power BI → "Get Data" → "Text/CSV" → Load `employees.csv`
-3. Use drag-and-drop or the Q&A visual to generate charts without writing SQL
-
----
-
-## References and AI usage
-
-> ⚠️ **Disclaimer**: External resources (papers, models, datasets) referenced in this episode are **not owned by me**.  
+> ⚠️ **Disclaimer**: External resources (papers, models, public datasets) referenced in this episode are **not owned by me**.  
 > Please refer to the original licenses and attribution requirements for each of them.
 
-- **Synthetic Data Generation**: ChatGPT (model: `gpt-4`)
-- **Tools**: [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
+- **BEAVER**: [Chen, Peter Baile; Wenz, Fabian; Zhang, Yi; Yang, Devin; Choi, Justin; Tatbul, Nesime; Cafarella, Michael; Demiralp, {\c{C}}a{\u{g}}atay and Stonebraker, Michael. BEAVER: an enterprise benchmark for text-to-sql, Journal = arXiv preprint arXiv:2409.02038, Year = 2024](https://arxiv.org/abs/2409.02038)
+
+> **Please check the resources provided by the authors for current updates on this dataset and paper.**
 
 ---
 
 ## 📬 Contact
 
-Created by **Gautham Nair**  
+Created by **Gautham Nair**; 
+> Additional insights by **Fabian Wenz**, [LinkedIn](linkedin.com/in/fabian-wenz)
+
 For questions or collaboration: [LinkedIn](https://www.linkedin.com/in/vmgauthamnair/), [X](https://x.com/VMG_Nair)

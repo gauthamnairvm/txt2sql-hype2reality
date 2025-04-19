@@ -64,7 +64,7 @@ This episode uses Power BI Desktop (free) to show how simple queries can be crea
 
 ## References and AI usage
 
-> ⚠️ **Disclaimer**: External resources (papers, models, datasets, additional video resources) referenced in this episode are **not owned by me**.  
+> ⚠️ **Disclaimer**: External resources (papers, models, public datasets, additional video resources) referenced in this episode are **not owned by me**.  
 > Please refer to the original licenses and attribution requirements for each of them.
 
 - **Synthetic Data Generation**: `employees_sample.csv` -> ChatGPT (model: `gpt-4`);
