@@ -10,8 +10,8 @@ In this episode, we explore the *what* and *why* of Text2SQL, low-code tools lik
 | Episode | Title | Summary |
 |--------|-------|---------|
 | 1️⃣ | [What is Text2SQL?](episodes/ep1) | Learn what Text2SQL is and why it's needed. |
-| 2️⃣ | [Demo Time: Is the hype real?; Placeholder, and current benchmarks](episodes/ep2) | Put public Text2SQL models to the test using benchamrk datasets such as Spider. |
-| 3️⃣ | [Text2SQL: Hype v/s Enterprise Reality](episodes/ep3) | Is Text2SQL enterprise-ready yet?; Limitation of current benchmarks, and expert views. |
+| 2️⃣ | [Demo Time: Is the hype real? Hands-on experiments, and current benchmarks](episodes/ep2) | Put public Text2SQL models to the test. |
+| 3️⃣ | [Text2SQL: Hype v/s Enterprise Reality](episodes/ep3) | Is Text2SQL enterprise-ready yet? Limitation of current benchmarks, and expert views. |
 
 ---
 
