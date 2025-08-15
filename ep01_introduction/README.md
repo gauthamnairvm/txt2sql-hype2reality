@@ -6,7 +6,7 @@ This is the supporting repository for the YouTube series **"Text2SQL: From Hype 
 
 ## ▶️ Episodes 01: What is Text2SQL? What is the hype around the topic?
 
-[Watch on YouTube](#) _(link coming soon)_
+[Watch on YouTube](https://youtu.be/eGNbyYxypgY)
 
 This episode of the Youtube series covers the following topics:
    - Schema Building using MySQL
